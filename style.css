@@ -1,0 +1,28 @@
+body {
+    font-family: "Times New Roman", serif;
+    background-color: #f8f8f8;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: darkred;
+}
+
+h2 {
+    color: brown;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+a {
+    color: darkblue;
+}
+
+ul {
+    background-color: white;
+    padding: 15px;
+}
