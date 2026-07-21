@@ -26,3 +26,39 @@ ul {
     background-color: white;
     padding: 15px;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th {
+    background-color: darkred;
+    color: white;
+    padding: 10px;
+}
+
+td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+.solido {
+    background-color: #fff4cc;
+}
+
+.liquido {
+    background-color: #dff4ff;
+}
+
+.valor {
+    color: blue;
+    font-weight: bold;
+}
+
+.total {
+    color: green;
+    font-weight: bold;
+}
